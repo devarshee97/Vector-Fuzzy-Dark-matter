@@ -10,7 +10,11 @@ constant at the center. This is widely known as the "Core-Cusp" problem in cosmo
 ![](https://latex.codecogs.com/png.image?\dpi{110}%20%20-\frac{\nabla^2}{2m}\psi(r)%20+%20m(\Phi%20+V)\psi(r)%20=%20E\psi(r)) \
   ![](https://latex.codecogs.com/png.image?\dpi{110}%20%20\nabla^2%20\Phi=%204\pi%20G%20|\psi|^2)
 
-  The three main qunatities in above are :\ ![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r)) denotes the dark matter which entails the fundamental description including the density \  ![](https://latex.codecogs.com/png.image?\dpi{110}%20\Phi(r)) efines the gravitational interaction with itself \
+  The three main qunatities in above are :
+  
+  ![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r)) denotes the dark matter which entails the fundamental description including the density
+  
+  ![](https://latex.codecogs.com/png.image?\dpi{110}%20\Phi(r)) efines the gravitational interaction with itself 
   
   ![](https://latex.codecogs.com/png.image?\dpi{110}%20V(r)) is the black hole potential.
   

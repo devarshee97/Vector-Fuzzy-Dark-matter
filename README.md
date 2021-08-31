@@ -8,7 +8,7 @@ constant at the center. This is widely known as the "Core-Cusp" problem in cosmo
 **Goal** :\
 Thus, the initial obejctive of this file is to numerically solve the SP eqn with relvant boundary condition and study the affect of varying Black Hole mass on the density profile of fuzzy VDM. This work was done in collaboration with Ashish Narang, post-doctoral student at PRL, Ahmedabad and under the mentorship of Prof. Subhendra Mohanty.
 
-**Methodology**:
+**Methodology**:\
 1.The Schrodinger-Poisson equation(explicitly shown in respective files) is a set of two coupled, second order partial differential equation with two free parameters, which is best solved numerically. The approach we take is commonly known as shooting method method.\
 2. The two dependent variables in the equation are $\phi(x)$ and $V(x)$, where the former denotes the wavefunction describing the dark matter behaviour and latte denoting its gravitational potential with itself.\
 3. Considering the appropriate physical description, we would want to solve the equations with a specific set of boundary conditions(we need four). This includes 

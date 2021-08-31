@@ -28,8 +28,14 @@ Thus, the initial obejctive of this project was to numerically solve the Schrodi
 
 **Methodology**:\
 1.The Schrodinger-Poisson equation is a set of two coupled, second order partial differential equation with two free parameters, which is best solved numerically. The approach we take is commonly known as shooting method method.\
-3. Considering the appropriate physical description, we would want to solve the equations with a specific set of boundary conditions(we need four). This includes 
-![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=0)%20=%200),  \psi(x=infinity)= 0, \psi'(x=0)=1$. For the potential function we would need the inital value, however, this cannot be randomly guessd apriori. So, we employ apply the following technique. \
+3. Considering the appropriate physical description, we would want to solve the equations with a specific set of four boundary conditions. The first three are 
+![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=0)%20=%200)
+
+![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=%20\infty)%20=%200)
+
+![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi%27(r=%200)%20=%201) 
+
+For the potential function we would need the inital value, however, this cannot be randomly guessd apriori. So, we employ apply the following technique. \
 4. First, we keep the value of $V(x=0) = p$ as an unknown variable. Then we consider the solution of the SP eqn i.e $\psi(x)$ at the boundary, which ideally is supposed to be a very large number, say $\psi(x= some large distance)$. Thus, we now have an equation with undetermined parameter $p$ in terms of $\psi$ at the boundary value.\
 5. A very simple e.g to exemplify the above is, say the eqn of interest is $x^2 + x +c+d$. At $x=2$, the eqn becomes $6+c+d$. So,we now call this as a function $f(p)$. \
 6. The key idea now is that, we know that at a very large distance we want $\psi(s) = 0$, by virtue of physical limits. This essentially means that we want to find a value of $p$ such that the eqn evaluates to zero, in other words, we want to fnd the root of the equation. This is commonly called as root-finding technique. \

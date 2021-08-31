@@ -30,7 +30,7 @@ Thus, the initial obejctive of this project was to numerically solve the Schrodi
 1.The Schrodinger-Poisson equation is a set of two coupled, second order partial differential equation with two free parameters, which is best solved numerically. The approach we take is commonly known as shooting method method.\
 3. Considering the appropriate physical description, we would want to solve the equations with a specific set of four boundary conditions. The first three are\
 4. 
-![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=0)%20=%200), ![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=%20\infty)%20=%200), ![](https://latex.codecogs.com/png.image?\dpi{110}%20\psi%27(r=%200)%20=%201)
+![I)](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=0)%20=%200), ![II)](https://latex.codecogs.com/png.image?\dpi{110}%20\psi(r=%20\infty)%20=%200), ![III](https://latex.codecogs.com/png.image?\dpi{110}%20\psi%27(r=%200)%20=%201)
 
 For the potential function we would need the inital value, however, this cannot be randomly guessd apriori. So, we apply the following technique. \
 4. First, we keep the value of $V(x=0) = p$ as an unknown variable. Then we consider the solution of the SP eqn i.e $\psi(x)$ at the boundary, which ideally is supposed to be a very large number, say $\psi(x= some large distance)$. Thus, we now have an equation with undetermined parameter $p$ in terms of $\psi$ at the boundary value.\

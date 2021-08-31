@@ -1,6 +1,7 @@
 # Density profile of Vector Fuzzy-Dark matter
-_(This work was done in collaboration with Ashish Narang, a post-doctoral student at PRL, Ahmedabad and under the mentorship of Prof. Subhendra Mohanty)
-_
+(This work was done in collaboration with Ashish Narang, a post-doctoral student at PRL, Ahmedabad and under the mentorship of 
+Prof. Subhendra Mohanty)
+
 
 **Introduction**:  \
 Aside from the usual matter(made up proton, neutron and electron) with which we interact everyday, physicists have long believed the existence of another type of invisible matter that surrounds most galaxies in the Universe, including our own Milky-way galaxy. Unlike the everyday matter around us, this unseen matter is not known to have any direct contact with the former, hence aptly named "dark matter"; although its amount is argued to be almost five times that of standard matter. Over the past several decades, following extensive and meticulous study of different cosmological phenomenon and observational data, majority of the scientific community today strongly argues the existence of dark matter, and is a topic of active research. One of the most fundamental question regarding dark matter that remains unanswered today is, what is it made up of?\

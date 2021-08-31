@@ -6,7 +6,7 @@ Aside from the usual matter(made up proton, neutron and electron) with which we 
 constant at the center. This is widely known as the "Core-Cusp" problem in cosmology. One of the possible resolution to this tension comes through a relatively new idea o dar matter called scalar field dark matter. They key difference in th e latter is that the cinstituent particles of dark matter is considered to be extremely tiny(ultra-light) such that the fundamental description of suh a system can be given by the extremely powerful Schrodinger-Posisson(SP) equation. \
 
 ![](https://latex.codecogs.com/png.image?\dpi{110}%20%20-\frac{\nabla^2}{2m}\psi(r)%20+%20m(\Phi%20+V)\psi(r)%20=%20E\psi(r)) \
-![](https://latex.codecogs.com/png.image?\dpi{110}%20%20\nabla^2%20\Phi=%204\pi%20G%20|\psi|^2%20=4\pi%20G%20\rho)
+  ![](https://latex.codecogs.com/png.image?\dpi{110}%20%20\nabla^2%20\Phi=%204\pi%20G%20|\psi|^2)
 
 The scalar type of such dark matter is already studied extensively, hence, in this project we aim to study a variant called vector fuzzy dark matter, which also obeys the SP eqn. \
 

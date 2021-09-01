@@ -1,5 +1,5 @@
 # Density profile of Vector Fuzzy-Dark matter
-(This work was done in collaboration with Ashish Narang, a post-doctoral student at PRL, Ahmedabad and under the mentorship of 
+(This work was done in collaboration with Dr. Ashish Narang, a post-doctoral student at PRL, Ahmedabad and under the mentorship of 
 Prof. Subhendra Mohanty)
 
 

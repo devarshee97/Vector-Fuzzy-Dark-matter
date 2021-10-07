@@ -3,7 +3,7 @@
 Prof. Subhendra Mohanty)
 
 
-# Introduction:  \
+# Introduction
 Aside from the usual matter(made up proton, neutron and electron) with which we interact everyday, physicists have long believed the existence of another type of invisible matter that surrounds most galaxies in the Universe, including our own Milky-way galaxy. Unlike the everyday matter around us, this unseen matter is not known to have any direct contact with the former, hence aptly named "dark matter"; although its amount is argued to be almost five times that of standard matter. Over the past several decades, following extensive and meticulous study of different cosmological phenomenon and observational data, majority of the scientific community today strongly argues the existence of dark matter, and is a topic of active research. One of the most fundamental question regarding dark matter that remains unanswered today is, what is it made up of?\
 Several models and ideas have been proposed in this regard, and among them the most commonly accepted idea is that of Cold Dark Matter or CDM model. It elegantly explains several issues on the subject and enjoys great success, except at the region close to the center of galaxies, where a very massive Black Hole is known to exist. The key issue is that the theoretical prediction on the density profile in this region diverges to a huge value towards the galactic center, and is in conflict with observational data that the density actually flattens out or becomes 
 constant at the center. This is widely known as the "Core-Cusp" problem in cosmology. One of the possible resolution to this tension comes through a relatively new idea of dark matter. They key difference in this idea is that the constituent particles of dark matter is considered to be extremely tiny(ultra-light) such that the fundamental description of suh a system can be given by the extremely powerful Schrodinger-Posisson(SP) equation.
@@ -25,10 +25,10 @@ constant at the center. This is widely known as the "Core-Cusp" problem in cosmo
   
 The scalar type of such dark matter is already studied extensively, hence, in this project we aim to study a variant called vector fuzzy dark matter, which also obeys the SP eqn. 
 
-# Goal :
+# Goal
 Thus, the initial obejctive of this project was to numerically solve the Schrodinger-Poisson equation with relevant boundary condition and study the affect of varying Black Hole mass on the density profile of fuzzy VDM.
 
-# Methodology:
+# Methodology
 * The Schrodinger-Poisson equation is a set of two coupled, second order partial differential equation  which is best solved numerically using the "shooting-method".\
 * Considering the appropriate physical description, we would want to solve the equations with a specific set of four boundary conditions. The first three are\
 
